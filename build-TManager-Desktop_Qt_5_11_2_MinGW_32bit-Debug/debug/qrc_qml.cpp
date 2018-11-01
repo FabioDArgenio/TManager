@@ -7,7 +7,6 @@
 *****************************************************************************/
 
 static const unsigned char qt_resource_data[] = {
-  // C:/Users/fabio/Documents/Computherm/Software/TManager/TManager/Page1Form.ui.qml
   // C:/Users/fabio/Documents/Computherm/Software/TManager/TManager/qtquickcontrols2.conf
   0x0,0x0,0x0,0xda,
   0x3b,
